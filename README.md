@@ -18,7 +18,7 @@
 | App | Pour quoi faire | Télécharger |
 |---|---|---|
 | **[Foyer Launcher](https://github.com/foyerapps/foyer-launcher)** | Tous tes jeux PC (Steam, Epic, Riot, GOG…) et tes potes, au même endroit. La Soirée te dit à quoi jouer ensemble. | [Foyer-Setup.exe](https://github.com/foyerapps/foyer-launcher/releases/latest/download/Foyer-Setup.exe) |
-| **[Foyer TV](https://github.com/foyerapps/foyer-tv)** | Ton abonnement IPTV sur ta télé Android et sur ton PC : chaînes, guide des programmes, films et séries. | [FoyerTV.apk](https://github.com/foyerapps/foyer-tv/releases/latest/download/FoyerTV.apk) (télé Android) · PC bientôt |
+| **[Foyer TV](https://github.com/foyerapps/foyer-tv)** | Ton abonnement IPTV sur ta télé Android et sur ton PC : chaînes, guide des programmes, films et séries. | [FoyerTV-Setup.exe](https://github.com/foyerapps/foyer-tv/releases/latest/download/FoyerTV-Setup.exe) (PC) · [FoyerTV.apk](https://github.com/foyerapps/foyer-tv/releases/latest/download/FoyerTV.apk) (télé Android) |
 
 Chaque app s'installe aussi toute seule, sans Foyer, depuis sa propre page.
 
