@@ -30,6 +30,3 @@ Un seul compte Foyer et un seul **Foyer+** pour toutes les apps. Tout ce qui est
 
 Tes données restent sur ton PC. Pas de pub, pas de revente de données.
 
----
-
-<sub>Les versions 0.12 à 0.14 dans les Releases de ce dépôt sont d'anciennes versions du launcher de jeux. Il se trouve maintenant sur <a href="https://github.com/foyerapps/foyer-launcher">foyer-launcher</a>.</sub>
