@@ -44,6 +44,7 @@ Une grande image, un gros bouton Lancer, la version, et toutes les notes de patc
 |---|---|---|---|
 | <img src="assets/launcher.png" width="40" alt=""> | **[Foyer Launcher](https://github.com/foyerapps/foyer-launcher)** | Tous tes jeux PC (Steam, Epic, Riot, GOG…) et tes potes, au même endroit. La Soirée te dit à quoi jouer ensemble. | [Foyer-Setup.exe](https://github.com/foyerapps/foyer-launcher/releases/latest/download/Foyer-Setup.exe) |
 | <img src="https://raw.githubusercontent.com/foyerapps/foyer-tv/main/assets/icon.png" width="40" alt=""> | **[Foyer TV](https://github.com/foyerapps/foyer-tv)** | Ton abonnement IPTV sur ton PC et sur ta télé Android : chaînes, guide des programmes, films et séries. | [FoyerTV-Setup.exe](https://github.com/foyerapps/foyer-tv/releases/latest/download/FoyerTV-Setup.exe) · [FoyerTV.apk](https://github.com/foyerapps/foyer-tv/releases/latest/download/FoyerTV.apk) |
+| <img src="assets/mods.png" width="40" alt=""> | **[Foyer Mods](https://github.com/foyerapps/foyer-mods)** | Glisse un mod, il s’installe au bon endroit : Assetto Corsa, Le Mans Ultimate, F1 25 (via Swofty), Euro Truck Simulator 2. | [Foyer-Mods-Setup.exe](https://github.com/foyerapps/foyer-mods/releases/latest/download/Foyer-Mods-Setup.exe) |
 
 Avec Foyer, tu n'as rien à télécharger toi-même : tout s'installe depuis l'écran **Toutes les apps**, même Foyer TV sur ta télé Android, en Wi-Fi.
 
